@@ -21,10 +21,9 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | Onderzoek | Project klaar zetten | Git opzetten | feature plan aanmaken | Reflecteren op het process |
-|week 2 |
+|week 2 | Werken aan feature | Git readme afmaken | Build klaar zetten en testen | Build online zetten | Reflecteren op het process |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [Example surface shaders](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html)
 
