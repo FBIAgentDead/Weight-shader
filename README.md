@@ -20,7 +20,7 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
+| test | --- | --- | --- | --- | --- |
 |week 1 |
 |week 2 |
 
