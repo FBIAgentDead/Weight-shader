@@ -1,4 +1,4 @@
-# Naam Proefopdracht
+# Custom Shader
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
 Het doel was om een klein voorbeeld spelletje te maken die laat zien hoe je met behulp van een vertex shader een character zijn weight kan aanpassen. Deze oefening is gemaakt met behulp van de unity engine en gebuild als een WebGL build.
