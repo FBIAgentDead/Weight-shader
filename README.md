@@ -20,7 +20,7 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | test |
+|week 1 | Onderzoek | Project klaar zetten | Git opzetten | feature plan aanmaken | Reflecteren op het process |
 |week 2 |
 
 ## Bronnen
